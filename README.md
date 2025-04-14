@@ -26,7 +26,7 @@ The goal is to explore patterns, trends, and key performance indicators (KPIs) r
 
 Here is a preview of the Airbnb Dashboard:
 
-![Airbnb Dashboard](dashboard.png)
+![Airbnb Dashboard](images/dashboard.png)
 
 
   
